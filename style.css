@@ -238,7 +238,7 @@ h3 {
     height: 500px;
     margin: auto;
     padding-left: 90px;
-    margin-bottom: 100px;
+    margin-bottom: 200px;
 }
 
 .news-section h3{
@@ -248,6 +248,7 @@ h3 {
     color: #000000;
     letter-spacing: 1.4px;
     line-height: 33.3px;
+    background-color: #F7F7F7;
  }
 
 .news-block {
